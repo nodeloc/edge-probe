@@ -90,3 +90,7 @@ curl -fsSL https://nodepend.com/probe/manifest.json
 清单中的 `version` 对应 [internal/agent/update.go](internal/agent/update.go) 里的 `Version`。请检出与之相同的版本再编译。
 
 支持的平台：`linux-amd64`、`linux-arm64`、`linux-arm`、`linux-mips`、`linux-mipsle`、`windows-amd64`、`darwin-amd64`、`darwin-arm64`。
+
+## 许可证
+
+[MIT](LICENSE)
